@@ -1,0 +1,54 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #000 !important;
+}
+
+.navbar-brand {
+    color: #ffd700; /* warna emas */
+}
+
+.navbar-toggler-icon {
+    background-color: #ffd700; /* warna emas */
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+    color: #ffd700 !important; /* warna emas */
+}
+
+.card {
+    background-color: #000;
+    border: 1px solid #ffd700; /* warna emas */
+    color: #fff;
+}
+
+.card-title {
+    color: #ffd700; /* warna emas */
+}
+
+.card-text {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #ffd700; /* warna emas */
+    border-color: #ffd700; /* warna emas */
+}
+
+.btn-primary:hover {
+    background-color: #e0a800; /* warna kuning tua */
+    border-color: #e0a800; /* warna kuning tua */
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+    box-shadow: 0 0 0 0.25rem rgba(255, 215, 0, 0.5); /* warna emas lebih terang */
+}
